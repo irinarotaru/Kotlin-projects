@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+<script>
+Text ceva habar n am
+</script>
+</body>
+</html>
